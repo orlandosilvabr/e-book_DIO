@@ -4,7 +4,7 @@
 
 Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramentas de IA. Todos os prompts seguem abaixo.
 
-📕 **[Clique aqui para ler](https://github.com/seu-usuario/nome-do-repositorio/raw/main/seu_ebook.pdf)**
+📕 **[Clique aqui para ler](https://github.com/orlandosilvabr/e-book_DIO/blob/main/E-book%20Terminal%20Ninja%20-%2010%20comandos%20intermedi%C3%A1rios.pdf)**
 
 ---
 
